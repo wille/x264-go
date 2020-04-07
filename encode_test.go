@@ -20,7 +20,7 @@ func TestEncode(t *testing.T) {
 		FrameRate: 25,
 		Tune:      "zerolatency",
 		Preset:    "veryfast",
-		Profile:   "baseline",
+		Profile:   "high",
 		LogLevel:  LogDebug,
 	}
 
